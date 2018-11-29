@@ -15,3 +15,7 @@ CreateNewFunction2
 {
 	print "helllo word";
 }
+CreateNewFunction3
+{
+	print "helllo word";
+}
