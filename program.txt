@@ -7,3 +7,11 @@ main2
 {
 	print "helllo word";
 }
+CreateNewFunction
+{
+	print "helllo word";
+}
+CreateNewFunction2
+{
+	print "helllo word";
+}
