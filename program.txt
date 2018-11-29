@@ -2,3 +2,8 @@ main
 {
 	print "helllo word";
 }
+
+main2
+{
+	print "helllo word";
+}
